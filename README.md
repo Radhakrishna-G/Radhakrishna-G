@@ -1,1 +1,1 @@
-<img align="left" alt="Radhakrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Radhakrishna-G&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="left" alt="Radhakrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Radhakrishna-G&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
